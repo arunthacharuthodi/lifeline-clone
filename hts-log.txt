@@ -1,0 +1,145 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 02 Mar 2023 23:21:42 at https://lifelinewisdomdental.com.au/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://lifelinewisdomdental.com.au/ -O1 "C:\My Web Sites\lifeline-clone" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:24:47	Error: 	"Method Not Allowed" (405) at link https://lifelinewisdomdental.com.au/xmlrpc.php (from https://lifelinewisdomdental.com.au/)
+23:27:00	Error: 	"Forbidden" (403) at link https://lifelinewisdomdental.com.au/wp-content/plugins/cmsms-content-composer/ (from https://lifelinewisdomdental.com.au/)
+23:28:54	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://lifelinemedicals.net/denti/wp-content/uploads/2021/12/emergency.jpg (from https://lifelinewisdomdental.com.au/wp-content/themes/yoga-fit/style.css?ver=1.0.0)
+23:28:54	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://lifelinemedicals.net/denti/wp-content/uploads/2015/05/clear-aligners.jpg (from https://lifelinewisdomdental.com.au/wp-content/themes/yoga-fit/style.css?ver=1.0.0)
+23:28:54	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://lifelinemedicals.net/denti/wp-content/uploads/2021/12/bg5.jpg (from https://lifelinewisdomdental.com.au/wp-content/themes/yoga-fit/style.css?ver=1.0.0)
+23:28:54	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://lifelinemedicals.net/denti/wp-content/uploads/2022/02/dental-crown2.jpg (from https://lifelinewisdomdental.com.au/wp-content/themes/yoga-fit/style.css?ver=1.0.0)
+23:28:54	Warning: 	Retry after error -4 (Incorrect length (335450 Bytes, 421408 expected)) at link https://lifelinewisdomdental.com.au/wp-content/themes/yoga-fit/css/fonts/fontello.eot?13836975 (from https://lifelinewisdomdental.com.au/wp-content/themes/yoga-fit/css/fontello.css?ver=1.0.0)
+23:28:54	Warning: 	Retry after error -4 (Incorrect length (799837 Bytes, 915886 expected)) at link https://lifelinewisdomdental.com.au/wp-content/themes/yoga-fit/css/fonts/fontello.svg?13836975 (from https://lifelinewisdomdental.com.au/wp-content/themes/yoga-fit/css/fontello.css?ver=1.0.0)
+23:28:54	Warning: 	File not parsed, looks like binary: https://lifelinewisdomdental.com.au/wp-content/themes/yoga-fit/img/ilightbox/closedhand.cur
+23:28:54	Warning: 	Retry after error -4 (Connect Error) at link https://lifelinewisdomdental.com.au/wp-content/themes/yoga-fit/img/ilightbox/dark-skin/x-mark-icon-64.png (from https://lifelinewisdomdental.com.au/wp-content/themes/yoga-fit/css/ilightbox-skins/dark-skin.css?ver=2.2.0)
+23:28:54	Warning: 	Retry after error -4 (No data (connection closed)) at link https://lifelinewisdomdental.com.au/wp-content/themes/yoga-fit/img/ilightbox/dark-skin/arrow-prev-icon-ie.png (from https://lifelinewisdomdental.com.au/wp-content/themes/yoga-fit/css/ilightbox-skins/dark-skin.css?ver=2.2.0)
+23:28:58	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=60
+23:28:58	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=60 to https://lifelinewisdomdental.com.au/about/
+23:28:58	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=907
+23:28:58	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=907 to https://lifelinewisdomdental.com.au/treatments/
+23:30:01	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=401
+23:30:01	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=401 to https://lifelinewisdomdental.com.au/promotions/
+23:30:01	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=5297
+23:30:01	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=5297 to https://lifelinewisdomdental.com.au/mobile-dental/
+23:30:01	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=63
+23:30:01	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=63 to https://lifelinewisdomdental.com.au/careers/
+23:30:01	Error: 	"Not Found" (404) at link https://lifelinewisdomdental.com.au/contact/feed/ (from https://lifelinewisdomdental.com.au/contact/)
+23:30:01	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=4952
+23:30:01	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=4952 to https://lifelinewisdomdental.com.au/contact/
+23:30:01	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=1155
+23:30:01	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=1155 to https://lifelinewisdomdental.com.au/project/private-small-group-lessons-your-yogafit/
+23:30:17	Warning: 	Retry after error 502 (Bad Gateway) at link https://lifelinewisdomdental.com.au/?p=9191 (from https://lifelinewisdomdental.com.au/crowns-and-bridges/)
+23:30:18	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=774
+23:30:18	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=774 to https://lifelinewisdomdental.com.au/project/teeth-whitening/
+23:30:18	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=617
+23:30:18	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=617 to https://lifelinewisdomdental.com.au/project/mouth-guards-night-guards/
+23:30:18	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=611
+23:30:18	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=611 to https://lifelinewisdomdental.com.au/project/wisdom-tooth-or-tooth-extraction/
+23:30:18	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=606
+23:30:18	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=606 to https://lifelinewisdomdental.com.au/project/scale-clean/
+23:30:18	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=9332
+23:30:18	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=9332 to https://lifelinewisdomdental.com.au/health-funds/
+23:30:18	Error: 	"Bad Request" (400) at link https://i0.wp.com/lifelinewisdomdental.com.au/wp-content/uploads/2022/02/1-32.png?fit=120%2C70&ssl=1 (from https://lifelinewisdomdental.com.au/health-funds/)
+23:30:18	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=2430
+23:30:18	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=2430 to https://lifelinewisdomdental.com.au/faq/
+23:30:18	Warning: 	File not parsed, looks like binary: https://lifelinewisdomdental.com.au/wp-content/plugins/revslider/public/assets/css/openhand.cur
+23:30:18	Warning: 	File not parsed, looks like binary: https://lifelinewisdomdental.com.au/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+23:30:18	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://lifelinemedicals.net/denti/wp-content/uploads/2021/12/emergency.jpg (from https://lifelinewisdomdental.com.au/wp-content/themes/yoga-fit/style.css?ver=1.0.0)
+23:30:18	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://lifelinemedicals.net/denti/wp-content/uploads/2015/05/clear-aligners.jpg (from https://lifelinewisdomdental.com.au/wp-content/themes/yoga-fit/style.css?ver=1.0.0)
+23:30:18	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://lifelinemedicals.net/denti/wp-content/uploads/2021/12/bg5.jpg (from https://lifelinewisdomdental.com.au/wp-content/themes/yoga-fit/style.css?ver=1.0.0)
+23:30:18	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://lifelinemedicals.net/denti/wp-content/uploads/2022/02/dental-crown2.jpg (from https://lifelinewisdomdental.com.au/wp-content/themes/yoga-fit/style.css?ver=1.0.0)
+23:30:19	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=8952
+23:30:19	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=8952 to https://lifelinewisdomdental.com.au/children-dental/
+23:30:19	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=9058
+23:30:19	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=9058 to https://lifelinewisdomdental.com.au/clear-aligners-therapy/
+23:30:19	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=9240
+23:30:19	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=9240 to https://lifelinewisdomdental.com.au/dental-checkup/
+23:30:19	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=9257
+23:30:19	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=9257 to https://lifelinewisdomdental.com.au/dental-fillings-restorations/
+23:30:19	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=619
+23:30:19	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=619 to https://lifelinewisdomdental.com.au/project/dental-x-ray/
+23:30:19	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=9437
+23:30:19	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=9437 to https://lifelinewisdomdental.com.au/dentures/
+23:30:19	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=9459
+23:30:19	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=9459 to https://lifelinewisdomdental.com.au/emergency-dental/
+23:30:19	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=5806
+23:30:19	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=5806 to https://lifelinewisdomdental.com.au/project/fissure-sealant/
+23:31:13	Error: 	"Not Found" (404) at link https://lifelinewisdomdental.com.au/pj-categs/preventative-dentistry/ (from https://lifelinewisdomdental.com.au/project/)
+23:31:24	Warning: 	Retry after error 502 (Bad Gateway) at link https://lifelinewisdomdental.com.au/project/crowns-and-bridges/ (from https://lifelinewisdomdental.com.au/project/)
+23:31:32	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=9191
+23:31:32	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=9191 to https://lifelinewisdomdental.com.au/crowns-and-bridges/
+23:31:32	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://lifelinemedicals.net/denti/wp-content/uploads/2021/12/emergency.jpg (from https://lifelinewisdomdental.com.au/wp-content/themes/yoga-fit/style.css?ver=1.0.0)
+23:31:32	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://lifelinemedicals.net/denti/wp-content/uploads/2015/05/clear-aligners.jpg (from https://lifelinewisdomdental.com.au/wp-content/themes/yoga-fit/style.css?ver=1.0.0)
+23:31:32	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://lifelinemedicals.net/denti/wp-content/uploads/2021/12/bg5.jpg (from https://lifelinewisdomdental.com.au/wp-content/themes/yoga-fit/style.css?ver=1.0.0)
+23:31:32	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://lifelinemedicals.net/denti/wp-content/uploads/2022/02/dental-crown2.jpg (from https://lifelinewisdomdental.com.au/wp-content/themes/yoga-fit/style.css?ver=1.0.0)
+23:31:45	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/project/page/1/
+23:31:45	Warning: 	File has moved from https://lifelinewisdomdental.com.au/project/page/1/ to https://lifelinewisdomdental.com.au/project/
+23:31:45	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=5818
+23:31:45	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=5818 to https://lifelinewisdomdental.com.au/project/dental-checkup/
+23:32:59	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=5816
+23:32:59	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=5816 to https://lifelinewisdomdental.com.au/project/dental-fillings-restorations/
+23:32:59	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=5810
+23:32:59	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=5810 to https://lifelinewisdomdental.com.au/project/emergency-dental/
+23:32:59	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=5801
+23:32:59	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=5801 to https://lifelinewisdomdental.com.au/project/veneers/
+23:33:05	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=1146
+23:33:05	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=1146 to https://lifelinewisdomdental.com.au/project/clear-aligners-therapy/
+23:33:05	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=615
+23:33:05	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=615 to https://lifelinewisdomdental.com.au/project/dentures/
+23:33:05	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=613
+23:33:05	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=613 to https://lifelinewisdomdental.com.au/project/children-dental/
+23:34:04	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/author/admin/page/1/
+23:34:04	Warning: 	File has moved from https://lifelinewisdomdental.com.au/author/admin/page/1/ to https://lifelinewisdomdental.com.au/author/admin/
+23:34:04	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=1
+23:34:04	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=1 to https://lifelinewisdomdental.com.au/2021/12/02/hello-world/
+23:34:04	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=5032
+23:34:04	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=5032 to https://lifelinewisdomdental.com.au/2015/07/29/yogas-power-to-cure-depression/
+23:34:04	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=5030
+23:34:04	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=5030 to https://lifelinewisdomdental.com.au/2015/07/29/tips-for-getting-started/
+23:34:04	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=5028
+23:34:04	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=5028 to https://lifelinewisdomdental.com.au/2015/07/29/yoga-mistakes-to-avoid/
+23:34:04	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=5026
+23:34:04	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=5026 to https://lifelinewisdomdental.com.au/2015/07/29/6-yoga-poses-for-lower-back-pain/
+23:34:04	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=6551
+23:34:04	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=6551 to https://lifelinewisdomdental.com.au/2015/07/27/the-best-yoga-poses-to-relieve-soreness/
+23:34:04	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=1965
+23:34:04	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=1965 to https://lifelinewisdomdental.com.au/2015/05/12/qa-with-ryanne/
+23:34:04	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=1963
+23:34:04	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=1963 to https://lifelinewisdomdental.com.au/2015/05/12/the-importance-of-meditation/
+23:34:04	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=91
+23:34:04	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=91 to https://lifelinewisdomdental.com.au/2015/04/29/5-yoga-poses-for-people-who-sit-all-day/
+23:34:04	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=285
+23:34:04	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=285 to https://lifelinewisdomdental.com.au/2015/04/16/meet-yogafit-ambassador-grace/
+23:34:10	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=1149
+23:34:10	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=1149 to https://lifelinewisdomdental.com.au/project/crowns-and-bridges/
+23:34:10	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=106
+23:34:10	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=106 to https://lifelinewisdomdental.com.au/2015/04/15/what-is-yoga/
+23:34:10	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=103
+23:34:10	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=103 to https://lifelinewisdomdental.com.au/2015/04/15/12-ways-yoga-transforms-your-body/
+23:34:10	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=101
+23:34:10	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=101 to https://lifelinewisdomdental.com.au/2015/04/15/introducing-yogafit-essential-oils/
+23:34:10	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=99
+23:34:10	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=99 to https://lifelinewisdomdental.com.au/2015/04/15/tammys-journey-to-yoga/
+23:34:10	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=87
+23:34:10	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=87 to https://lifelinewisdomdental.com.au/2015/04/15/home-remedies-to-cure-your-sweet-tooth/
+23:34:10	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=85
+23:34:10	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=85 to https://lifelinewisdomdental.com.au/2015/04/15/top-8-yoga-postures-for-pregnant-women/
+23:34:10	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=78
+23:34:10	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=78 to https://lifelinewisdomdental.com.au/2015/04/15/how-to-stay-fit-happy-and-healthy/
+23:34:10	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=1967
+23:34:10	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=1967 to https://lifelinewisdomdental.com.au/2014/06/12/why-you-should-go-to-yoga/
+23:34:10	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=2965
+23:34:10	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=2965 to https://lifelinewisdomdental.com.au/2014/05/29/make-change-happen-volunteer/
+23:34:10	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=2992
+23:34:10	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=2992 to https://lifelinewisdomdental.com.au/2014/05/29/the-benefits-of-building-strength/
+23:34:10	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/category/news/page/1/
+23:34:10	Warning: 	File has moved from https://lifelinewisdomdental.com.au/category/news/page/1/ to https://lifelinewisdomdental.com.au/category/news/
+23:34:10	Warning: 	Moved Permanently for https://lifelinewisdomdental.com.au/?p=2938
+23:34:10	Warning: 	File has moved from https://lifelinewisdomdental.com.au/?p=2938 to https://lifelinewisdomdental.com.au/2014/05/10/15-foods-that-torch-belly-fat/
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 minutes 28 seconds : 662 links scanned, 584 files written (29826497 bytes overall) [26671678 bytes received at 35657 bytes/sec], 6138173 bytes transferred using HTTP compression in 71 files, ratio 27%, 1.2 requests per connection
+(9 errors, 125 warnings, 0 messages)

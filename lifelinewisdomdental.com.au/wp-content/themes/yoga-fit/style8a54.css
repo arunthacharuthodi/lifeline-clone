@@ -1,0 +1,715 @@
+/*
+Theme Name: LifeLine Wisdom Dental
+Theme URI: https://www.lifelinewisdomdental.com.au/
+Author: dentalmasters
+Author URI: https://www.lifelinewisdomdental.com.au/
+Description: We, at Lifeline Wisdom Dental, realize that going to the dentist can be an overwhelming experience and can also cost a lot. We clearly outline our payment options and plans so the customer is at ease at all times. 
+Version: 1.3.2
+License:
+License URI:
+Text Domain: wisdom-dental
+Domain Path: /framework/languages
+Tags: Dental, wisdom dental, dental treatment in Footscray Melbourn Australia
+*/
+
+
+/*-------------------------------------------------------------------------*/
+/* Browser Reset
+/*-------------------------------------------------------------------------*/
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+figure,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+font,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td {
+  background: transparent;
+  border: 0;
+  margin: 0;
+  padding: 0;
+  vertical-align: baseline;
+  outline: none;
+}
+html {
+  height: 100%;
+  overflow-x: hidden;
+  position: relative;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+body {
+  overflow-x: hidden;
+  position: relative;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section,
+object,
+video,
+audio,
+embed,
+canvas,
+iframe,
+main,
+summary {
+  display: block;
+}
+video,
+audio,
+progress,
+canvas {
+  vertical-align: baseline;
+}
+video {
+  background-color: #000000;
+}
+template,
+[hidden],
+audio:not([controls]) {
+  display: none;
+}
+audio:not([controls]) {
+  height: 0;
+}
+iframe {
+  max-width: 100%;
+}
+abbr,
+address,
+progress {
+  display: inline-block;
+  text-decoration: none;
+}
+abbr:not([class]),
+acronym {
+  text-decoration: underline;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal;
+}
+#middle ul:after,
+#bottom ul:after,
+#middle ol:after,
+#bottom ol:after {
+  content: '.';
+  display: block;
+  clear: both;
+  height: 0;
+  visibility: hidden;
+  overflow: hidden;
+}
+dl {
+  display: block;
+  overflow: hidden;
+}
+dt {
+  display: block;
+  font-weight: bold;
+  overflow: hidden;
+}
+dd {
+  display: block;
+  overflow: hidden;
+}
+q:before,
+q:after {
+  content: none;
+}
+del {
+  text-decoration: line-through;
+}
+table {
+  width: 100%;
+}
+img {
+  display: inline-block;
+  color: transparent;
+  height: auto;
+  font-size: 0;
+  vertical-align: middle;
+  max-width: 100%;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -o-crisp-edges;
+  image-rendering: auto;
+  image-rendering: auto;
+  -ms-interpolation-mode: bicubic;
+}
+img.wp-smiley,
+img.emoji {
+  font-size: 1em;
+}
+a {
+  background: transparent;
+}
+a:active,
+a:hover {
+  outline: 0;
+}
+img {
+  border: 0;
+}
+figure {
+  background-image: none !important;
+}
+fieldset {
+  margin: 25px 2px 30px;
+  padding: 1.5em 1em .5em;
+  border-width: 0;
+  border-style: solid;
+}
+fieldset legend {
+  padding: 3px 10px;
+  margin-top: -25px;
+}
+input {
+  line-height: normal;
+}
+button,
+input,
+optgroup,
+select,
+textarea {
+  color: inherit;
+  font: inherit;
+  margin: 0;
+}
+textarea {
+  resize: vertical;
+}
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  -webkit-appearance: button;
+  cursor: pointer;
+}
+optgroup {
+  font-weight: bold;
+}
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  height: auto;
+}
+input[type=search] {
+  -webkit-appearance: textfield;
+}
+input[type=submit],
+input[type=search]::-webkit-search-cancel-button,
+input[type=search]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+input[type="checkbox"],
+input[type="radio"] {
+  padding: 0;
+}
+button {
+  overflow: visible;
+}
+button,
+select {
+  text-transform: none;
+}
+select {
+  cursor: pointer;
+}
+button[disabled],
+html input[disabled] {
+  cursor: default;
+  pointer-events: none;
+}
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+input[type=text]::-ms-clear {
+  display: none;
+}
+p:empty {
+  display: none;
+}
+:focus {
+  outline: 0;
+}
+pre,
+code,
+kbd,
+samp {
+  background-color: transparent;
+  color: inherit;
+  font-family: monospace;
+  font-size: inherit;
+  line-height: inherit;
+  font-weight: inherit;
+  font-style: inherit;
+  letter-spacing: 1px;
+}
+pre {
+  white-space: pre-wrap;
+}
+pre a {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  font-weight: inherit;
+  font-style: inherit;
+  letter-spacing: inherit;
+}
+code {
+  display: inline-block;
+}
+code a {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  font-weight: inherit;
+  font-style: inherit;
+  letter-spacing: inherit;
+}
+svg:not(:root) {
+  overflow: hidden;
+}
+sub,
+sup,
+small {
+  font-size: 75%;
+}
+sub,
+sup {
+  line-height: 0;
+  position: relative;
+}
+sup {
+  vertical-align: super;
+}
+sub {
+  vertical-align: sub;
+}
+b,
+strong {
+  font-weight: bold;
+}
+th,
+td,
+caption {
+  font-weight: normal;
+}
+dfn {
+  font-style: italic;
+}
+hr {
+  height: 0;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+}
+mark {
+  color: #000000;
+}
+.sticky,
+.bypostauthor,
+.screen-reader-text {
+  outline: none;
+}
+
+.cmsms_pricing_table .cmsms_pricing_item .pricing_titlek { 
+padding: 20px 0px !important;
+}
+
+
+.cmsms_pricing_table .cmsms_price {
+    font-size: 60px !important;
+    line-height: 65px !important;
+}
+.headline {
+    padding-top: 0px !important;
+}
+h3 .cmsms_heading{
+color: #3f3f3f !important;	
+}
+.headline .headline_outer .headline_inner .headline_text .entry-title {
+color: #ffffff !important;	
+}
+
+@media only screen and (max-width: 768px){
+#header .header_mid .logo_wrap {
+    
+	position: unset !important;
+	height: 100% !important;
+	
+}	
+html #page #header .header_mid .header_mid_outer .header_mid_inner .resp_nav_wrap {
+     float: right !important;  
+}
+	
+#header .header_mid .logo_wrap .logo .logo_retina {
+    display: inline-block;
+}	
+html #page #header .resp_nav_wrap .resp_nav_wrap_inner .responsive_nav {
+    display: inline-block;
+    position: relative;
+    height: 40px;
+    width: 40px;
+    vertical-align: middle;
+    border-width: 2px;
+    border-style: solid;
+}	
+}
+
+.llm_wd_thr{
+background-color:#000;
+margin-top: -42px !important;
+margin-right: 0px !important;
+margin-bottom: 0px !important;
+margin-left:-142px !important;		
+width:33.3%	!important;
+}
+.llm_wd_thr_img{
+background-color:#000;
+margin-top: -42px !important;
+margin-right: 0px !important;
+margin-bottom: 0px !important;
+margin-left:0px !important;		
+width:33.3%	!important;
+}
+
+.llm_wd_thr_vco{
+
+background-image: url(../../../../lifelinemedicals.net/denti/wp-content/uploads/2021/12/emergency.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover; 
+
+}
+.llm_wd_thr_vcom{
+padding-bottom: 0px !important;
+}
+
+
+.llm_wd_list_text{
+color: #ffffff !important;
+font-size: 18px !important;
+}
+.llm_wd_list_text h4{
+color: #ffffff !important;
+font-size: 22px !important;
+}
+
+.llm_wd_right_box{
+margin-bottom: -324px !important;
+ 
+}
+
+.llm_wd_left_b_box{
+ 
+/*background-color: #454544 !important;	*/
+padding: 35px !important;
+/*margin:0 0% !important;	*/
+/*margin-left: -9% !important;*/
+/*width: 59% !important ;*/
+}
+
+.llm_wd_right_b_box{
+ 
+/*background-color: #0084c8 !important;*/
+padding: 35px !important;
+/*margin:0 0% !important;	*/
+/*margin-right: -15% !important;*/
+/*width: 60% !important;*/
+ 
+}
+
+
+
+
+ 
+
+@media only screen and (max-width: 1024px){
+	
+.llm_wd_left_b_box{
+ 	
+background-color: #454544 !important;
+    padding: 0px 5px 50px 0px !important;
+    margin: -12.8% 0% 0% 0% !important;
+    width: 100% !important;
+    position: relative;
+    right: -3%;	
+	
+}
+
+.llm_wd_right_b_box{
+ 
+	
+	background-color: #0084c8 !important;
+    padding: 50px 0px 50px 30px !important;
+    margin: 0% 0% -15% -4% !important;
+    width: 100% !important;
+ 
+}	
+.llm_wd_right_box {
+    margin-bottom: 0px !important;
+}	
+}
+
+.llw_md_lg{	
+display:inline !important;
+}	
+.llw_xs_sm{
+display:none !important;
+}	
+
+@media only screen and (max-width: 750px){
+	
+.llw_md_lg{	
+display:none !important;
+}	
+.llw_xs_sm{
+display:inline !important;
+}	
+	
+#page .top_img_height {
+    height: 0px !important;
+}	
+	
+#header .header_mid .logo_wrap .logo img.logo_retina {
+    width: 305.5px !important;
+}
+
+.menu-primary-navigation-container{
+	
+position: fixed !important;
+    background-color: #e1e1e1 !important;
+    width: 100% !important;	
+	
+	}
+	
+	#cmsms_icon_box_61dd4b28dfb9e8_60054704 {
+		border-radius: 0% !important;
+	}
+	#cmsms_icon_box_61dd4b28dfc5c2_73316442 {
+		border-radius:  0% !important;
+	}
+	#cmsms_icon_box_61dd4b28dfdcd7_16254833 {
+		border-radius:  0% !important;
+	}
+	#cmsms_icon_box_61dd4b28dfe772_32669974 {
+		border-radius:  0% !important;
+	}
+	
+.mobile_divid {
+padding-top: 0px !important;
+margin-bottom: 0px !important;
+}
+}
+
+.icon_box_inner{
+	
+	padding:0px 21px !important;
+	
+}
+
+
+.align_clear_list{
+	
+padding-left:0px !important;	
+}
+
+.align_clear_list li{
+	
+	display:inline !important;
+	padding: 0px 0px 0px 70px !important;
+    font-size: 2vh !important;
+    line-height: 4vh !important;
+	font-weight:bold;
+	color:#0084c8;
+	
+}
+
+
+.align_clear_list li:before{
+	
+content:'' !important;	
+padding-left: 0px !important;
+}
+
+.align_clear_list li:first-child{
+padding-left: 0px !important;	
+}
+
+.llm_wd_clear_aligner_img1{
+
+background-image: url(../../../../lifelinemedicals.net/denti/wp-content/uploads/2015/05/clear-aligners.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover; 
+
+}
+.llm_wd_clear_aligner_img2{
+
+background-image: url(../../../../lifelinemedicals.net/denti/wp-content/uploads/2021/12/bg5.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover; 
+
+}
+.llm_wd_thr_vcom{
+padding-bottom: 0px !important;
+}
+
+.llt_clear_thp{
+margin-top:-210px !important;	
+margin-left: -32px !important;
+}
+
+.llt_clear_thpsec{
+margin-top:-210px !important;	
+margin-left: 75px !important;
+}
+
+.llt_clear_thp h3{
+ text-align:center !important;
+	font-weight:bold !important;
+}
+.llt_clear_thpsec h3 {
+    text-align: center !important;
+    font-weight: bold !important;
+}
+
+
+.llt_detail_chk_up{
+	padding-top: 50px !important;
+	padding-left: 15px !important;
+}
+.llt_detail_chk_upa{
+	padding-top: 50px !important;
+	padding-left: 15px !important;
+}
+.llt_detail_chk_upb{
+	padding-top: 50px !important;
+	padding-left: 15px !important;
+}
+.llt_detail_chk_upc{
+	padding-top: 50px !important;
+	padding-left: 15px !important;
+}
+
+.llt_detail_chk_up h4{
+	text-align: center !important;
+	
+}
+.llt_detail_chk_upa h4{
+	text-align: center !important;
+	
+}
+.llt_detail_chk_upb h4{
+	text-align: center !important;
+	
+}
+.llt_detail_chk_upc h4{
+	text-align: center !important;
+	
+}
+
+@media only screen and (max-width: 750px){
+
+.llt_clear_thp{
+margin-top:10px !important;	
+margin-left:10px !important;
+}	
+
+.llt_thp_pg{
+	margin-bottom: 485px !important;
+}
+	}
+	
+}	
+
+.llm_wd_dental_crownx{
+background-image: url(../../../../lifelinemedicals.net/denti/wp-content/uploads/2022/02/dental-crown2.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover; 
+
+
+}
